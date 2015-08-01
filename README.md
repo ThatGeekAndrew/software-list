@@ -15,7 +15,7 @@ I made this to remember which core programs I need to get back after my Windows 
     * [Generator](https://github.com/yeoman/generator-generator) `npm install -g generator-generator`
     * [Email Boilerplate](https://github.com/jahvi/generator-htmlemail) `npm install -g generator-htmlemail`
     * [Chrome Extension](https://github.com/yeoman/generator-chrome-extension) `npm install -g generator-chrome-extension`
-    * [Phaser Game](https://github.com/julien/generator-phaser) `npm generator-phaser`
+    * [Phaser Game](https://github.com/julien/generator-phaser) `npm install -g generator-phaser`
     * [Angular Fullstack](https://github.com/DaftMonk/generator-angular-fullstack) `npm install -g generator-angular-fullstack`
     * [Angular Drupal](https://github.com/Gizra/generator-hedley) `npm install -g generator-hedley`
     * [Ghost Themeing](https://github.com/sethvincent/generator-ghost) `npm install -g generator-ghost`
