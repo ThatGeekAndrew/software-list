@@ -5,7 +5,7 @@ I made this to remember which core programs I need to get back after my Windows 
 **Development**
 
 * [Sublime Text 2](http://sublimetext.com/)
-* [Atom Text Editor](http://atom.com/)
+* [Atom Text Editor](https://atom.io/)
 * [Git Bash](http://git-scm.com/)
 * [Node.js](http://nodejs.org/)
   * Bower `npm install -g bower`
