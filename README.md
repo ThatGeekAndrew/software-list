@@ -7,7 +7,7 @@ I made this to remember which core programs I need to get back after my Windows 
 * [Sublime Text 2](http://sublimetext.com/)
 * [Atom Text Editor](https://atom.io/)
 * [Git Bash](http://git-scm.com/)
-* [Node.js](http://nodejs.org/)
+* [Node.js](http://nodejs.org/) `node -v`
   * Bower `npm install -g bower`
   * Grunt `npm install -g grunt-cli`
   * Gulp `npm install -g gulp`
@@ -20,9 +20,10 @@ I made this to remember which core programs I need to get back after my Windows 
     * [Angular Drupal](https://github.com/Gizra/generator-hedley) `npm install -g generator-hedley`
     * [Ghost Themeing](https://github.com/sethvincent/generator-ghost) `npm install -g generator-ghost`
     * [Reveal.js](https://github.com/slara/generator-reveal) `npm install -g generator-reveal`
-* [Ruby](http://rubyinstaller.org/)
-  * [Gems](http://rubyinstaller.org/)
-  * [Sass]() `gem install -g sass`
+* [Ruby](http://rubyinstaller.org/) `ruby -v`
+  * [Gems](https://rubygems.org/pages/download)
+  * [Sass](http://sass-lang.com/install) `gem install sass`
+* [Python](https://www.python.org/downloads/)
 * [Mongo](https://www.mongodb.org/)
 * [PuTTY](http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)
 * [PuTTYgen](http://the.earth.li/~sgtatham/putty/latest/x86/puttygen.exe)
