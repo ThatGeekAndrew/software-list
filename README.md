@@ -9,11 +9,11 @@ I made this to remember which core programs I need to get back after my Windows 
 * [Git Bash](http://git-scm.com/)
 * [Node Version Manager](https://github.com/coreybutler/nvm-windows) `nvm list`
 * [Node.js](http://nodejs.org/) `node -v`
-  * Bower `npm install -g bower`
-  * Grunt `npm install -g grunt-cli`
-  * Ember `npm install -g ember-cli`
-  * Gulp `npm install -g gulp`
-  * Yeoman `npm install -g yo`
+  * [Bower](bower.io) `npm install -g bower`
+  * [Grunt](http://gruntjs.com/getting-started) `npm install -g grunt-cli`
+  * [Ember](http://emberjs.com/) `npm install -g ember-cli`
+  * [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) `npm install -g gulp`
+  * [Yeoman](http://yeoman.io/) `npm install -g yo`
     * [Generator](https://github.com/yeoman/generator-generator) `npm install -g generator-generator`
     * [Email Boilerplate](https://github.com/jahvi/generator-htmlemail) `npm install -g generator-htmlemail`
     * [Chrome Extension](https://github.com/yeoman/generator-chrome-extension) `npm install -g generator-chrome-extension`
@@ -44,4 +44,4 @@ Reference http://devdocs.io/ for any additional resources.
 * [TeamSpeak](http://www.teamspeak.com/)
 * [OSRS Client](http://oldschool.runescape.com/)
 * [OS Buddy](https://rsbuddy.com/osbuddy/)
-* [Bittorrent](http://www.bittorrent.com/)
+* [BitTorrent](http://www.bittorrent.com/)
