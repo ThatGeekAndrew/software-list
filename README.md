@@ -11,6 +11,7 @@ I made this to remember which core programs I need to get back after my Windows 
 * [Node.js](http://nodejs.org/) `node -v`
   * Bower `npm install -g bower`
   * Grunt `npm install -g grunt-cli`
+  * Ember `npm install -g ember-cli`
   * Gulp `npm install -g gulp`
   * Yeoman `npm install -g yo`
     * [Generator](https://github.com/yeoman/generator-generator) `npm install -g generator-generator`
