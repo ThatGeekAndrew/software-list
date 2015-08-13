@@ -7,6 +7,7 @@ I made this to remember which core programs I need to get back after my Windows 
 * [Sublime Text 2](http://sublimetext.com/)
 * [Atom Text Editor](https://atom.io/)
 * [Git Bash](http://git-scm.com/)
+* [Node Version Manager](https://github.com/coreybutler/nvm-windows) `nvm list`
 * [Node.js](http://nodejs.org/) `node -v`
   * Bower `npm install -g bower`
   * Grunt `npm install -g grunt-cli`
