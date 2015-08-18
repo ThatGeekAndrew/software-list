@@ -13,8 +13,8 @@ I made this to remember which core programs I need to get back after my Windows 
   * [Grunt](http://gruntjs.com/getting-started) `npm install -g grunt-cli`
   * [Ember](http://emberjs.com/) `npm install -g ember-cli`
   * [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) `npm install -g gulp`
-  * [Yeoman](http://yeoman.io/) `npm install -g yo`
   * [SQLite3](https://www.npmjs.com/package/sqlite3) `npm install -g sqlite3`
+  * [Yeoman](http://yeoman.io/) `npm install -g yo`
     * [Generator](https://github.com/yeoman/generator-generator) `npm install -g generator-generator`
     * [Email Boilerplate](https://github.com/jahvi/generator-htmlemail) `npm install -g generator-htmlemail`
     * [Chrome Extension](https://github.com/yeoman/generator-chrome-extension) `npm install -g generator-chrome-extension`
