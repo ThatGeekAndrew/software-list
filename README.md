@@ -1,6 +1,6 @@
 #Software List
 
-I made this to remember which core programs I need to get back after my Windows 10 Upgrade, also as an example in my blog post explaining [how to update](http://ghost.geeksmarter.com/). I figure I'd make this a repo to easily update my list and help get new computers up and running quicker in the future.
+I made this to remember which core programs I need to get back after my Windows 10 Upgrade, also as an example in my blog post explaining [how to update](http://ghost.geeksmarter.com/upgrading-to-windows-10/). I figure I'd make this a repo to easily update my list and help get new computers up and running quicker in the future.
 
 **Development**
 
@@ -23,6 +23,7 @@ I made this to remember which core programs I need to get back after my Windows 
     * [Angular Drupal](https://github.com/Gizra/generator-hedley) `npm install -g generator-hedley`
     * [Ghost Themeing](https://github.com/sethvincent/generator-ghost) `npm install -g generator-ghost`
     * [Reveal.js](https://github.com/slara/generator-reveal) `npm install -g generator-reveal`
+  * [Express Generator](https://expressjs.com/) `npm install -g express-generator`
 * [Ruby](http://rubyinstaller.org/) `ruby -v`
   * [Gems](https://rubygems.org/pages/download)
   * [Sass](http://sass-lang.com/install) `gem install sass`
