@@ -28,6 +28,7 @@ I made this to remember which core programs I need to get back after my Windows 
   * [Gems](https://rubygems.org/pages/download)
   * [Sass](http://sass-lang.com/install) `gem install sass`
 * [Python](https://www.python.org/downloads/)
+* [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [Mongo](https://www.mongodb.org/)
 * [PuTTY](http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe)
 * [PuTTYgen](http://the.earth.li/~sgtatham/putty/latest/x86/puttygen.exe)
